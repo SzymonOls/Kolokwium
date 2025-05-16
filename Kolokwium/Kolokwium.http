@@ -1,0 +1,6 @@
+@Kolokwium_HostAddress = http://localhost:5096
+
+GET {{Kolokwium_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
